@@ -20,7 +20,6 @@ C# と Azure Functions による Googleアシスタント、Alexa、Clovaスキ�
 
 上記スキルを、下記ライブラリを使って開発したバージョンです。
 
-https://github.com/himanago/dice-roller-cross-platform-with-xplat-vui
 
 #### クロスプラットフォームライブラリ「XPlat.VUI」
 
