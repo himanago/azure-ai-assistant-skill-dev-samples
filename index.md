@@ -31,13 +31,13 @@ Googleアシスタント、Alexa、Clovaスキルを一挙に開発できるク�
 
 ### 第5章：Durable Functionsでスマートスピーカースキルの限界を超えよう
 
-#### ◆[Durable Functions を用いたロングランニングなスキル（XPlat.VUI使用）](https://github.com/himanago/xplat-vui-durable-sample)
+#### [◆Durable Functions を用いたロングランニングなスキル（XPlat.VUI使用）](https://github.com/himanago/xplat-vui-durable-sample)
 
 Durable Functionsを使ったクロスプラットフォーム対応スキル（数を数えるだけのシンプルなもの）。
 
 
 
-#### ◆[テキスト腹話術（Durable Functions＋無音無限ループ）](https://github.com/line-developer-community/line-api-handbook/tree/master/chapter05/ClovaVentriloquism)
+#### [◆テキスト腹話術（Durable Functions＋無音無限ループ）](https://github.com/line-developer-community/line-api-handbook/tree/master/chapter05/ClovaVentriloquism)
 
 CEK.CSharp の現行バージョンでの再実装版「テキスト腹話術」です。
 ※LINE Developer Community内
@@ -45,7 +45,7 @@ CEK.CSharp の現行バージョンでの再実装版「テキスト腹話術」
 
 ### 第6章：スマートフォンアプリとVUI・クロスプラットフォーム対応
 
-#### ◆[Xamarin.Forms＋4アシスタント](https://github.com/himanago/xamarin-with-vui-sample)
+#### [◆Xamarin.Forms＋4アシスタント](https://github.com/himanago/xamarin-with-vui-sample)
 
 Xamarin.Formsによるメモアプリケーションに4アシスタントとの機能共有と画面のVUI対応を施したもの。
 
