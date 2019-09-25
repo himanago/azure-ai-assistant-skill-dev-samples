@@ -16,12 +16,12 @@ C# と Azure Functions による Googleアシスタント、Alexa、Clovaスキ�
 
 
 
-#### [◆「ダイスローラー」スキル（XPlat.VUI版）](https://github.com/himanago/xplat-vui)
+#### [◆「ダイスローラー」スキル（XPlat.VUI版）](https://github.com/himanago/dice-roller-cross-platform-with-xplat-vui)
 
 上記スキルを、下記ライブラリを使って開発したバージョンです。
 
 
-#### ◆クロスプラットフォームライブラリ「XPlat.VUI」
+#### [◆クロスプラットフォームライブラリ「XPlat.VUI」](https://github.com/himanago/xplat-vui)
 
 Googleアシスタント、Alexa、Clovaスキルを一挙に開発できるクロスプラットフォームです。
 ※NuGet公開版のため、書籍掲載のものに一部機能追加・修正が施されています
